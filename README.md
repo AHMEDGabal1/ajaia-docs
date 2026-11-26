@@ -1,5 +1,7 @@
 # Ajaia Docs
 
+**Repo:** https://github.com/AHMEDGabal1/ajaia-docs
+
 A small collaborative document editor: create, rename, edit, and import documents, then share them with other users as viewer or editor.
 
 **Stack:** React + Vite + TipTap (editor) · FastAPI + SQLAlchemy (API) · SQLite locally / Postgres in production · one Docker image that serves both API and frontend.

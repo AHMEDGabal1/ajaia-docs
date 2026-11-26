@@ -252,7 +252,7 @@ ajaia-docs/
 
 ## 11. Deliverables checklist
 
-- [x] Source code (public repo)
+- [x] Source code — https://github.com/AHMEDGabal1/ajaia-docs
 - [x] `README.md` — local run, seeded accounts, deploy
 - [x] Architecture note — `ARCHITECTURE.md` (also summarized above)
 - [x] AI workflow note — `AI_WORKFLOW.md` (also summarized above)
