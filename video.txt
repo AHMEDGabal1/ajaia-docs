@@ -1,0 +1,9 @@
+TODO: paste the unlisted Loom or YouTube walkthrough link here.
+
+Suggested 3-5 minute outline:
+1. Sign in as Alice, create a document, apply bold/italic/underline/heading/list formatting.
+2. Refresh the page to show persistence; reopen from the dashboard.
+3. Import a .md file and show it as an editable document.
+4. Share the document with Bob as viewer; open Bob in a second window/incognito and show it under "Shared with me", read-only.
+5. Promote Bob to editor; show editing works; show Bob cannot re-share (owner-only).
+6. Briefly: architecture (one container, one access helper, session cookie), deliberate cuts (no realtime/versioning/docx), and how AI was used and verified (tests + smoke test).
